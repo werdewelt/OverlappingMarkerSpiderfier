@@ -1,0 +1,14 @@
+{
+  "name": "OverlappingMarkerSpiderfier",
+  "homepage": "https://github.com/werdewelt/OverlappingMarkerSpiderfier",
+  "main": "lib/oms.coffee",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
